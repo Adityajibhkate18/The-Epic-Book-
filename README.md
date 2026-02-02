@@ -62,4 +62,3 @@ Key Learnings
 • Database installation and schema management
 • Nginx reverse proxy configuration
 • DNS mapping using Route 53
-• End-to-end cloud deployment
