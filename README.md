@@ -45,20 +45,20 @@ Nginx reverse proxy, and custom domain routing via Route 53.
 
 
 
-Tech Stack
+System Architecture
+
+🛠️ Key Components
+
+Frontend: HTML, CSS, JavaScript for UI rendering
+Backend: Node.js + Express.js handles API requests
+Database: MySQL for storing books, orders, and user data
+Reverse Proxy: Nginx to handle request forwarding
+Cloud Services : AWS EC2 and Route 53
 
 
-• AWS EC2
-• AWS Route 53
-• Amazon Linux
-• Node.js
-• MySQL 5.7
-• Nginx
+
+Conclusion
+
+The EpicBook! application provides a seamless user experience for discovering, selecting, and purchasing books online. With its well-structured navigation, visually appealing gallery, detailed product descriptions, and smooth checkout flow, it serves as a great example of an e-commerce bookstore.
 
 
-Key Learnings
-
-• EC2 provisioning and Linux administration
-• Database installation and schema management
-• Nginx reverse proxy configuration
-• DNS mapping using Route 53
