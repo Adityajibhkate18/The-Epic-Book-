@@ -49,9 +49,13 @@ System Architecture
 🛠️ Key Components
 
 Frontend: HTML, CSS, JavaScript for UI rendering
+
 Backend: Node.js + Express.js handles API requests
+
 Database: MySQL for storing books, orders, and user data
+
 Reverse Proxy: Nginx to handle request forwarding
+
 Cloud Services : AWS EC2 and Route 53
 
 
