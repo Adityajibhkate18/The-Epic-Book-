@@ -1,6 +1,5 @@
 The Epic Book – AWS EC2 & Route 53 Deployment
 
-Description
 A cloud-hosted Node.js web application deployed on AWS EC2 with MySQL backend,
 Nginx reverse proxy, and custom domain routing via Route 53.
 
