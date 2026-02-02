@@ -11,14 +11,27 @@ Nginx reverse proxy, and custom domain routing via Route 53.
 <img width="1892" height="1078" alt="1" src="https://github.com/user-attachments/assets/af3ffb1d-071e-48c4-873f-90c3174d430b" />
 
 
+
+
+
+
+
 2.Menu section
 
 <img width="1902" height="1077" alt="2" src="https://github.com/user-attachments/assets/9174c457-d768-446a-82a7-2dce378b67cd" />
 
 
+
+
+
+
+
 3. Cart Section
    
 <img width="1885" height="1081" alt="3" src="https://github.com/user-attachments/assets/28b84818-a864-4b78-bf31-8ae05c322f91" />
+
+
+
 
 4. Order Placed
 
@@ -28,16 +41,23 @@ Nginx reverse proxy, and custom domain routing via Route 53.
 
 
 
+
+
+
+
 Tech Stack
+
+
 • AWS EC2
 • AWS Route 53
 • Amazon Linux
 • Node.js
 • MySQL 5.7
 • Nginx
-a
+
 
 Key Learnings
+
 • EC2 provisioning and Linux administration
 • Database installation and schema management
 • Nginx reverse proxy configuration
